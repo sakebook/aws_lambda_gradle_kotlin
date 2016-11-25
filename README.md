@@ -5,12 +5,12 @@ AWS lambda with Kotlin
 
 ## Usage
 
-1. build zip
+* build zip
 
 ```sh
 ./gradlew clean build
 ```
 
-2. upload zip
+* upload zip
 
-file path `/build/distributions/lambda_gradle_kotlin-1.-.zip`
+file path `/build/distributions/lambda_gradle_kotlin-1.0.zip`
